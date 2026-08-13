@@ -14,9 +14,9 @@
   },
 
   "home": {
-    "tagline": "never forget anything",
-    "welcome": "Welcome to Trip Checklist",
-    "createFirst": "Create your first checklist from the bottom menu.",
+    "tagline": "don't forget anything",
+    "welcome": "Welcome to Shop Checklist",
+    "createFirst": "Create your first checklist using the button below",
     "yourChecklists": "Your checklists"
   },
 
@@ -26,19 +26,19 @@
 
   "modal": {
     "createChecklist": "Create checklist",
-    "sportName": "Sport name",
+    "sportName": "Checklist name",
     "create": "Create",
     "add": "Add",
 
-    "createFirstCategory": "Create first category",
-    "categoryName": "Category name",
+    "createFirstCategory": "Create category",
+    "categoryName": "Name",
     "continue": "Continue",
 
-    "addFirstItem": "Add first item",
-    "itemName": "Item name",
+    "addFirstItem": "New item",
+    "itemName": "Name",
 
     "addCategory": "Add category",
-    "addItem": "Add item",
+    "addItem": "Add",
 
     "renameChecklist": "Rename checklist",
     "checklistName": "Checklist name",
@@ -48,31 +48,31 @@
     "load": "Load",
 
     "resetChecklist": "Reset checklist",
-    "resetWarning": "Are you sure you want to uncheck all items? This action cannot be undone!",
+    "resetWarning": "Are you sure you want to deselect all items? This action cannot be undone!",
     "cancel": "Cancel"
   },
 
   "progress": {
-    "itemsTaken": "items taken"
+    "itemsTaken": "items selected"
   },
 
   "info": {
-    "description": "WebApp developed to prepare for your next race and never forget anything.",
-    "goodLuck": "Good luck and have a great race!",
+    "description": "The app that helps you organize your shopping and not forget anything.",
+    "goodLuck": "Happy shopping!",
     "contact": "Contact us for support or feedback:",
-    "tagline": "never forget anything",
+    "tagline": "don't forget anything",
     "write": "Write to us",
     "welcome": "Welcome"
   },
 
   "install": {
-    "iosTitle": "Add Trip Checklist to your Home Screen",
-    "iosText": "On iPhone open Safari, tap Share, choose \"Add to Home Screen\" and then \"Add\".",
+    "iosTitle": "Add Shop Checklist to your Home Screen",
+    "iosText": "On iPhone, open Safari, tap Share, choose \"Add to Home Screen\" and then \"Add\".",
 
-    "androidTitle": "Install Trip Checklist on your phone",
-    "androidText": "On Android open the browser menu and choose \"Install app\" or \"Add to Home Screen\".",
+    "androidTitle": "Install Shop Checklist on your phone",
+    "androidText": "On Android, open the browser menu and choose \"Install app\" or \"Add to Home Screen\".",
 
-    "playStoreTitle": "Download Trip Checklist for Android",
+    "playStoreTitle": "Download Shop Checklist for Android",
     "playStoreText": "Install the app from the Play Store to always have it at hand.",
     "playStoreButton": "Open Play Store"
   },
@@ -83,13 +83,14 @@
 
   "language": {
     "title": "Language",
-    "system": "System language",
+    "system": "Device language",
     "italian": "Italian",
     "english": "English",
     "french": "French",
     "spanish": "Spanish",
     "german": "German"
   },
+
   "themes": {
     "title": "Theme",
     "red": "Racing Red",

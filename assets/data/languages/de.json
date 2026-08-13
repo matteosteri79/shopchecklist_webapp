@@ -2,7 +2,7 @@
     "menu": {
         "info": "Info",
         "language": "Sprache",
-        "theme": "Design"
+        "theme": "Thema"
     },
 
     "fab": {
@@ -14,9 +14,9 @@
     },
 
     "home": {
-        "tagline": "vergiss nichts",
-        "welcome": "Willkommen bei Trip Checklist",
-        "createFirst": "Erstelle deine erste Checkliste über das Menü unten.",
+        "tagline": "nichts vergessen",
+        "welcome": "Willkommen bei Shop Checklist",
+        "createFirst": "Erstelle deine erste Checkliste über die Schaltfläche unten",
         "yourChecklists": "Deine Checklisten"
     },
 
@@ -26,19 +26,19 @@
 
     "modal": {
         "createChecklist": "Checkliste erstellen",
-        "sportName": "Sportart",
+        "sportName": "Name der Checkliste",
         "create": "Erstellen",
         "add": "Hinzufügen",
 
-        "createFirstCategory": "Erste Kategorie erstellen",
-        "categoryName": "Kategoriename",
+        "createFirstCategory": "Kategorie erstellen",
+        "categoryName": "Name",
         "continue": "Weiter",
 
-        "addFirstItem": "Ersten Gegenstand hinzufügen",
-        "itemName": "Name des Gegenstands",
+        "addFirstItem": "Neuer Artikel",
+        "itemName": "Name",
 
         "addCategory": "Kategorie hinzufügen",
-        "addItem": "Gegenstand hinzufügen",
+        "addItem": "Hinzufügen",
 
         "renameChecklist": "Checkliste umbenennen",
         "checklistName": "Name der Checkliste",
@@ -53,45 +53,46 @@
     },
 
     "progress": {
-        "itemsTaken": "Gegenstände eingepackt"
+        "itemsTaken": "ausgewählte Artikel"
     },
 
     "info": {
-        "description": "WebApp zur Vorbereitung auf deinen nächsten Wettkampf, damit du nichts vergisst.",
-        "goodLuck": "Viel Erfolg und einen guten Wettkampf!",
+        "description": "Die App hilft dir, deine Einkäufe zu organisieren und nichts zu vergessen.",
+        "goodLuck": "Viel Spaß beim Einkaufen!",
         "contact": "Kontaktiere uns für Support oder Feedback:",
-        "tagline": "vergiss nichts",
+        "tagline": "nichts vergessen",
         "write": "Schreib uns",
         "welcome": "Willkommen"
     },
 
     "install": {
-        "iosTitle": "Trip Checklist zum Home-Bildschirm hinzufügen",
-        "iosText": "Öffne auf dem iPhone Safari, tippe auf Teilen, wähle „Zum Home-Bildschirm“ und anschließend „Hinzufügen“.",
+        "iosTitle": "Shop Checklist zum Home-Bildschirm hinzufügen",
+        "iosText": "Öffne auf dem iPhone Safari, tippe auf Teilen, wähle \"Zum Home-Bildschirm\" und anschließend \"Hinzufügen\".",
 
-        "androidTitle": "Trip Checklist auf deinem Smartphone installieren",
-        "androidText": "Öffne auf Android das Browsermenü und wähle „App installieren“ oder „Zum Home-Bildschirm hinzufügen“.",
+        "androidTitle": "Shop Checklist auf deinem Smartphone installieren",
+        "androidText": "Öffne auf Android das Browsermenü und wähle \"App installieren\" oder \"Zum Startbildschirm hinzufügen\".",
 
-        "playStoreTitle": "Trip Checklist für Android herunterladen",
-        "playStoreText": "Installiere die App aus dem Play Store, damit sie immer griffbereit ist.",
+        "playStoreTitle": "Shop Checklist für Android herunterladen",
+        "playStoreText": "Installiere die App aus dem Play Store, damit du sie immer griffbereit hast.",
         "playStoreButton": "Play Store öffnen"
     },
 
     "alert": {
-        "noTemplate": "Keine Vorlagen verfügbar"
+        "noTemplate": "Keine Vorlage verfügbar"
     },
 
     "language": {
         "title": "Sprache",
-        "system": "Systemsprache",
+        "system": "Gerätesprache",
         "italian": "Italienisch",
         "english": "Englisch",
         "french": "Französisch",
         "spanish": "Spanisch",
         "german": "Deutsch"
     },
+
     "themes": {
-        "title": "Design",
+        "title": "Thema",
         "red": "Racing Red",
         "green": "Forest Green",
         "blue": "Ocean Blue",

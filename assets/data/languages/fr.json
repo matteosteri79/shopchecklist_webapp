@@ -1,6 +1,6 @@
 {
     "menu": {
-        "info": "Informations",
+        "info": "Infos",
         "language": "Langue",
         "theme": "Thème"
     },
@@ -14,9 +14,9 @@
     },
 
     "home": {
-        "tagline": "n'oubliez rien",
-        "welcome": "Bienvenue sur Trip Checklist",
-        "createFirst": "Créez votre première checklist depuis le menu du bas.",
+        "tagline": "ne rien oublier",
+        "welcome": "Bienvenue sur Shop Checklist",
+        "createFirst": "Créez votre première checklist avec le bouton ci-dessous",
         "yourChecklists": "Vos checklists"
     },
 
@@ -26,19 +26,19 @@
 
     "modal": {
         "createChecklist": "Créer une checklist",
-        "sportName": "Nom du sport",
+        "sportName": "Nom de la checklist",
         "create": "Créer",
         "add": "Ajouter",
 
-        "createFirstCategory": "Créer la première catégorie",
-        "categoryName": "Nom de la catégorie",
+        "createFirstCategory": "Créer une catégorie",
+        "categoryName": "Nom",
         "continue": "Continuer",
 
-        "addFirstItem": "Ajouter le premier objet",
-        "itemName": "Nom de l'objet",
+        "addFirstItem": "Nouvel article",
+        "itemName": "Nom",
 
         "addCategory": "Ajouter une catégorie",
-        "addItem": "Ajouter un objet",
+        "addItem": "Ajouter",
 
         "renameChecklist": "Renommer la checklist",
         "checklistName": "Nom de la checklist",
@@ -48,31 +48,31 @@
         "load": "Charger",
 
         "resetChecklist": "Réinitialiser la checklist",
-        "resetWarning": "Êtes-vous sûr de vouloir décocher tous les éléments ? Cette action est irréversible !",
+        "resetWarning": "Êtes-vous sûr de vouloir désélectionner tous les éléments ? Cette action est irréversible !",
         "cancel": "Annuler"
     },
 
     "progress": {
-        "itemsTaken": "objets préparés"
+        "itemsTaken": "articles sélectionnés"
     },
 
     "info": {
-        "description": "WebApp développée pour préparer votre prochaine compétition sans rien oublier.",
-        "goodLuck": "Bonne chance et bonne compétition !",
-        "contact": "Contactez-nous pour toute assistance ou commentaire :",
-        "tagline": "n'oubliez rien",
+        "description": "L'application qui vous aide à organiser vos courses et à ne rien oublier.",
+        "goodLuck": "Bonnes courses !",
+        "contact": "Contactez-nous pour toute demande d'assistance ou commentaire :",
+        "tagline": "ne rien oublier",
         "write": "Écrivez-nous",
         "welcome": "Bienvenue"
     },
 
     "install": {
-        "iosTitle": "Ajoutez Trip Checklist à l'écran d'accueil",
-        "iosText": "Sur iPhone, ouvrez Safari, touchez Partager, choisissez « Ajouter à l'écran d'accueil », puis « Ajouter ».",
+        "iosTitle": "Ajouter Shop Checklist à l'écran d'accueil",
+        "iosText": "Sur iPhone, ouvrez Safari, touchez Partager, choisissez \"Ajouter à l'écran d'accueil\", puis \"Ajouter\".",
 
-        "androidTitle": "Installez Trip Checklist sur votre téléphone",
-        "androidText": "Sur Android, ouvrez le menu du navigateur et choisissez « Installer l'application » ou « Ajouter à l'écran d'accueil ».",
+        "androidTitle": "Installer Shop Checklist sur votre téléphone",
+        "androidText": "Sur Android, ouvrez le menu du navigateur et choisissez \"Installer l'application\" ou \"Ajouter à l'écran d'accueil\".",
 
-        "playStoreTitle": "Téléchargez Trip Checklist pour Android",
+        "playStoreTitle": "Télécharger Shop Checklist pour Android",
         "playStoreText": "Installez l'application depuis le Play Store pour l'avoir toujours à portée de main.",
         "playStoreButton": "Ouvrir le Play Store"
     },
@@ -83,13 +83,14 @@
 
     "language": {
         "title": "Langue",
-        "system": "Langue du système",
+        "system": "Langue de l'appareil",
         "italian": "Italien",
         "english": "Anglais",
         "french": "Français",
         "spanish": "Espagnol",
         "german": "Allemand"
     },
+
     "themes": {
         "title": "Thème",
         "red": "Racing Red",

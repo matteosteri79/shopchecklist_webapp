@@ -1,95 +1,96 @@
 {
     "menu": {
-        "info": "Información",
+        "info": "Info",
         "language": "Idioma",
         "theme": "Tema"
     },
 
     "fab": {
-        "loadChecklist": "Cargar lista",
-        "createChecklist": "Crear nueva lista",
+        "loadChecklist": "Cargar checklist",
+        "createChecklist": "Crear nueva checklist",
         "addCategory": "Añadir categoría",
-        "renameChecklist": "Renombrar lista",
-        "resetChecklist": "Restablecer lista"
+        "renameChecklist": "Renombrar checklist",
+        "resetChecklist": "Restablecer checklist"
     },
 
     "home": {
         "tagline": "no olvides nada",
-        "welcome": "Bienvenido a Trip Checklist",
-        "createFirst": "Crea tu primera lista desde el menú inferior.",
-        "yourChecklists": "Tus listas"
+        "welcome": "Bienvenido a Shop Checklist",
+        "createFirst": "Crea tu primera checklist con el botón de abajo",
+        "yourChecklists": "Tus checklists"
     },
 
     "checklist": {
-        "title": "Lista"
+        "title": "Checklist"
     },
 
     "modal": {
-        "createChecklist": "Crear lista",
-        "sportName": "Nombre del deporte",
+        "createChecklist": "Crear checklist",
+        "sportName": "Nombre de la checklist",
         "create": "Crear",
         "add": "Añadir",
 
-        "createFirstCategory": "Crear primera categoría",
-        "categoryName": "Nombre de la categoría",
+        "createFirstCategory": "Crear categoría",
+        "categoryName": "Nombre",
         "continue": "Continuar",
 
-        "addFirstItem": "Añadir primer objeto",
-        "itemName": "Nombre del objeto",
+        "addFirstItem": "Nuevo artículo",
+        "itemName": "Nombre",
 
         "addCategory": "Añadir categoría",
-        "addItem": "Añadir objeto",
+        "addItem": "Añadir",
 
-        "renameChecklist": "Renombrar lista",
-        "checklistName": "Nombre de la lista",
+        "renameChecklist": "Renombrar checklist",
+        "checklistName": "Nombre de la checklist",
         "save": "Guardar",
 
-        "loadChecklist": "Cargar lista",
+        "loadChecklist": "Cargar checklist",
         "load": "Cargar",
 
-        "resetChecklist": "Restablecer lista",
-        "resetWarning": "¿Estás seguro de que quieres desmarcar todos los elementos? ¡Esta acción no se puede deshacer!",
+        "resetChecklist": "Restablecer checklist",
+        "resetWarning": "¿Estás seguro de que quieres deseleccionar todos los elementos? ¡Esta acción no se puede deshacer!",
         "cancel": "Cancelar"
     },
 
     "progress": {
-        "itemsTaken": "objetos preparados"
+        "itemsTaken": "artículos seleccionados"
     },
 
     "info": {
-        "description": "WebApp desarrollada para preparar tu próxima competición y no olvidar nada.",
-        "goodLuck": "¡Buena suerte y buena competición!",
-        "contact": "Contáctanos para soporte o comentarios:",
+        "description": "La aplicación que te ayuda a organizar tus compras y a no olvidar nada.",
+        "goodLuck": "¡Felices compras!",
+        "contact": "Contáctanos para recibir asistencia o enviar comentarios:",
         "tagline": "no olvides nada",
         "write": "Escríbenos",
         "welcome": "Bienvenido"
     },
 
     "install": {
-        "iosTitle": "Añade Trip Checklist a la pantalla de inicio",
-        "iosText": "En iPhone abre Safari, pulsa Compartir, selecciona \"Añadir a pantalla de inicio\" y luego \"Añadir\".",
+        "iosTitle": "Añade Shop Checklist a la pantalla de inicio",
+        "iosText": "En iPhone, abre Safari, toca Compartir, selecciona \"Añadir a pantalla de inicio\" y luego \"Añadir\".",
 
-        "androidTitle": "Instala Trip Checklist en tu teléfono",
-        "androidText": "En Android abre el menú del navegador y selecciona \"Instalar aplicación\" o \"Añadir a pantalla de inicio\".",
+        "androidTitle": "Instala Shop Checklist en tu teléfono",
+        "androidText": "En Android, abre el menú del navegador y selecciona \"Instalar aplicación\" o \"Añadir a pantalla de inicio\".",
 
-        "playStoreTitle": "Descarga Trip Checklist para Android",
+        "playStoreTitle": "Descarga Shop Checklist para Android",
         "playStoreText": "Instala la aplicación desde Play Store para tenerla siempre a mano.",
         "playStoreButton": "Abrir Play Store"
     },
 
     "alert": {
-        "noTemplate": "No hay plantillas disponibles"
+        "noTemplate": "No hay ninguna plantilla disponible"
     },
 
     "language": {
         "title": "Idioma",
-        "system": "Idioma del sistema",
+        "system": "Idioma del dispositivo",
         "italian": "Italiano",
         "english": "Inglés",
         "french": "Francés",
         "spanish": "Español",
         "german": "Alemán"
     },
+
     "themes": {
         "title": "Tema",
         "red": "Racing Red",

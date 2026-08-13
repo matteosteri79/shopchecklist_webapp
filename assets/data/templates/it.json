@@ -1,279 +1,115 @@
 [
-    {
-      "id": "triathlon",
-      "name": "Triathlon",
-      "icon": "timeline",
-      "visible": true,
-      "categories": [
-        {
-          "name": "Nuoto",
-          "icon": "swim",
-          "items": [
-            {"name": "Occhialini"},
-            {"name": "Bodysuit"},
-            {"name": "Muta"},
-            {"name": "Cuffia"},
-            {"name": "Ciabatte"},
-            {"name": "GPS"},
-            {"name": "Fascia cardio"}
-          ]
-        },
-        {
-          "name": "Ciclismo",
-          "icon": "bike",
-          "items": [
-            {"name": "Bici"},
-            {"name": "Casco"},
-            {"name": "Scarpe bici"},
-            {"name": "Occhiali da sole"},
-            {"name": "Calze"},
-            {"name": "Borraccia"},
-            {"name": "Pompetta bici"}
-          ]
-        },
-        {
-          "name": "Corsa",
-          "items": [
-            {"name": "Scarpe running"},
-            {"name": "Occhiali da sole"},
-            {"name": "Cappellino"}
-          ]
-        },
-        {
-          "name": "Transizioni",
-          "items": [
-            {"name": "Portanumero"},
-            {"name": "Elastici scarpe ciclismo"},
-            {"name": "Borotalco"},
-            {"name": "Vasellina"}
-          ]
-        },
-        {
-          "name": "Alimentazione",
-          "items": [
-            {"name": "Acqua/Borraccia"},
-            {"name": "Sali minerali"},
-            {"name": "Carbo gel"},
-            {"name": "Barrette"},
-            {"name": "Frutta secca"}
-          ]
-        },
-        {
-          "name": "Pre/Post gara",
-          "items": [
-            {"name": "Tessera società"},
-            {"name": "Abbigliamento di ricambio"},
-            {"name": "Abbigliamento della squadra"},
-            {"name": "Kit doccia (Asciugamano/Accappatoio, sapone, ciabatte)"}
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "nuoto",
-      "name": "Nuoto",
-      "icon": "swim",
-      "visible": true,
-      "categories": [
-        {
-          "name": "Generale",
-          "icon": "swim",
-          "items": [
-            {"name": "Occhialini"},
-            {"name": "Muta/Costumone"},
-            {"name": "Cuffia"},
-            {"name": "Ciabatte"}
-          ]
-        },
-        {
-          "name": "Alimentazione",
-          "items": [
-            {"name": "Acqua/Borraccia"},
-            {"name": "Sali minerali"},
-            {"name": "Carbo gel"},
-            {"name": "Barrette"},
-            {"name": "Frutta secca"}
-          ]
-        },
-        {
-          "name": "Pre/Post gara",
-          "items": [
-            {"name": "Tessera società"},
-            {"name": "Abbigliamento di ricambio"},
-            {"name": "Abbigliamento della squadra"},
-            {"name": "Kit doccia (Asciugamano/Accappatoio, sapone, ciabatte)"}
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "ciclismo",
-      "name": "Ciclismo",
-      "icon": "bike",
-      "visible": true,
-      "categories": [
-        {
-          "name": "Generale",
-          "icon": "bike",
-          "items": [
-            {"name": "Bici"},
-            {"name": "Casco"},
-            {"name": "Scarpe bici"},
-            {"name": "Occhiali da sole"},
-            {"name": "Calze"},
-            {"name": "Borraccia"},
-            {"name": "Pompetta bici"},
-            {"name": "GPS"},
-            {"name": "Fascia cardio"}
-          ]
-        },
-        {
-          "name": "Alimentazione",
-          "items": [
-            {"name": "Acqua/Borraccia"},
-            {"name": "Sali minerali"},
-            {"name": "Carbo gel"},
-            {"name": "Barrette"},
-            {"name": "Frutta secca"}
-          ]
-        },
-        {
-          "name": "Pre/Post gara",
-          "items": [
-            {"name": "Tessera società"},
-            {"name": "Abbigliamento di ricambio"},
-            {"name": "Abbigliamento della squadra"},
-            {"name": "Kit doccia (Asciugamano/Accappatoio, sapone, ciabatte)"}
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "corsa",
-      "name": "Corsa",
-      "visible": true,
-      "categories": [
-        {
-          "name": "Generale",
-          "items": [
-            {"name": "Scarpe running"},
-            {"name": "Occhiali da sole"},
-            {"name": "Cappellino"},
-            {"name": "Spille per numero di gara"},
-            {"name": "GPS"},
-            {"name": "Fascia cardio"}
-          ]
-        },
-        {
-          "name": "Alimentazione",
-          "items": [
-            {"name": "Acqua/Borraccia"},
-            {"name": "Sali minerali"},
-            {"name": "Carbo gel"},
-            {"name": "Barrette"},
-            {"name": "Frutta secca"}
-          ]
-        },
-        {
-          "name": "Pre/Post gara",
-          "items": [
-            {"name": "Tessera società"},
-            {"name": "Abbigliamento di ricambio"},
-            {"name": "Abbigliamento della squadra"},
-            {"name": "Kit doccia (Asciugamano/Accappatoio, sapone, ciabatte)"}
-          ]
-        }
-      ]
-    },
-
-    {
-        "id": "tennis",
-        "name": "Tennis",
-        "visible": true,
-        "categories": [
-          {
-            "name": "Generale",
-            "items": [
-              {"name": "Racchetta"},
-              {"name": "Racchetta di riserva"},
-              {"name": "Palline"},
-              {"name": "Borsone"},
-              {"name": "Scarpe"},
-              {"name": "Maglia"},
-              {"name": "Pantaloncini / Gonna"},
-              {"name": "Calzini"},
-              {"name": "Cappellino / Visiera"}
-            ]
-          },
-          {
-            "name": "Alimentazione",
-            "items": [
-              {"name": "Acqua/Borraccia"},
-              {"name": "Sali minerali"},
-              {"name": "Carbo gel"},
-              {"name": "Barrette"},
-              {"name": "Frutta secca"}
-            ]
-          },
-          {
-            "name": "Pre/Post gara",
-            "items": [
-              {"name": "Tessera società"},
-              {"name": "Abbigliamento di ricambio"},
-              {"name": "Abbigliamento della squadra"},
-              {"name": "Asciugamano"},
-              {"name": "Polsini"},
-              {"name": "Overgrip di ricambio"},
-              {"name": "Nastro / Cerotti per vesciche"},
-              {"name": "Protezione solare"},
-              {"name": "Cambio completo post-partita"},
-              {"name": "Kit doccia (Asciugamano/Accappatoio, sapone, ciabatte)"}
-            ]
-          }
+  {
+    "id": "weekly_shopping",
+    "name": "Spesa settimanale",
+    "icon": "shopping_cart",
+    "visible": true,
+    "categories": [
+      {
+        "name": "Frutta e verdura",
+        "icon": "nutrition",
+        "items": [
+          { "name": "Frutta" },
+          { "name": "Verdura" },
+          { "name": "Insalata" }
         ]
       },
-
-    {
-        "id": "calcio",
-        "name": "Calcio",
-        "visible": true,
-        "categories": [
-          {
-            "name": "Generale",
-            "items": [
-              {"name": "Borsone"},
-              {"name": "Scarpette"},
-              {"name": "Parastinchi"},
-              {"name": "Maglia"},
-              {"name": "Pantaloncini"},
-              {"name": "Calzettoni"}
-            ]
-          },
-          {
-            "name": "Alimentazione",
-            "items": [
-              {"name": "Acqua/Borraccia"},
-              {"name": "Sali minerali"},
-              {"name": "Carbo gel"},
-              {"name": "Barrette"},
-              {"name": "Frutta secca"}
-            ]
-          },
-          {
-            "name": "Pre/Post gara",
-            "items": [
-              {"name": "Tessera società"},
-              {"name": "Abbigliamento di ricambio"},
-              {"name": "Abbigliamento della squadra"},
-              {"name": "Nastro per fissare i parastinchi"},
-              {"name": "Cambio completo post-partita"},
-              {"name": "Kit doccia (Asciugamano/Accappatoio, sapone, ciabatte)"}
-            ]
-          }
+      {
+        "name": "Carne, pesce e uova",
+        "icon": "restaurant",
+        "items": [
+          { "name": "Carne" },
+          { "name": "Pesce" },
+          { "name": "Uova" }
+        ]
+      },
+      {
+        "name": "Latticini",
+        "icon": "local_drink",
+        "items": [
+          { "name": "Latte" },
+          { "name": "Yogurt" },
+          { "name": "Formaggio" },
+          { "name": "Burro" }
+        ]
+      },
+      {
+        "name": "Pane e prodotti da forno",
+        "icon": "bakery_dining",
+        "items": [
+          { "name": "Pane" },
+          { "name": "Panini" },
+          { "name": "Fette biscottate" }
+        ]
+      },
+      {
+        "name": "Dispensa",
+        "icon": "kitchen",
+        "items": [
+          { "name": "Pasta" },
+          { "name": "Riso" },
+          { "name": "Farina" },
+          { "name": "Zucchero" },
+          { "name": "Sale" },
+          { "name": "Olio" },
+          { "name": "Aceto" },
+          { "name": "Passata di pomodoro" }
+        ]
+      },
+      {
+        "name": "Colazione",
+        "icon": "free_breakfast",
+        "items": [
+          { "name": "Caffè" },
+          { "name": "Tè" },
+          { "name": "Biscotti" },
+          { "name": "Cereali" },
+          { "name": "Marmellata" }
+        ]
+      },
+      {
+        "name": "Bevande",
+        "icon": "local_drink",
+        "items": [
+          { "name": "Acqua" },
+          { "name": "Succhi di frutta" },
+          { "name": "Bibite" },
+          { "name": "Birra" }
+        ]
+      },
+      {
+        "name": "Surgelati",
+        "icon": "ac_unit",
+        "items": [
+          { "name": "Verdure surgelate" },
+          { "name": "Pizza surgelata" },
+          { "name": "Gelato" }
+        ]
+      },
+      {
+        "name": "Casa e pulizia",
+        "icon": "cleaning_services",
+        "items": [
+          { "name": "Detersivo piatti" },
+          { "name": "Detersivo lavatrice" },
+          { "name": "Detersivo pavimenti" },
+          { "name": "Spugne" },
+          { "name": "Sacchetti per la spazzatura" },
+          { "name": "Carta da cucina" },
+          { "name": "Carta igienica" }
+        ]
+      },
+      {
+        "name": "Igiene personale",
+        "icon": "soap",
+        "items": [
+          { "name": "Shampoo" },
+          { "name": "Bagnoschiuma" },
+          { "name": "Dentifricio" },
+          { "name": "Deodorante" },
+          { "name": "Sapone" }
         ]
       }
-
+    ]
+  }
 ]
