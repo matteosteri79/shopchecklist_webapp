@@ -1,0 +1,24 @@
+{
+  "name": "Shop Checklist",
+  "short_name": "Shop Checklist",
+  "description": "Checklist per preparare e spuntare tutti gli articoli per non dimenticare nulla.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "var(--theme-dark)",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
